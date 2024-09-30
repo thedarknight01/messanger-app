@@ -8,9 +8,9 @@ Thank you for your interest in contributing to **Messenger App**! We welcome con
 
 2. **Clone Your Fork**:
    ```bash
-   git clone https://github.com/yourusername/messenger-app.git
+   git clone https://github.com/thedarknight01/messenger-app.git
    ```
-   - Replace `yourusername` with your GitHub username.
+   
 
 3. **Create a New Branch**:
    - Create a new branch for your feature or bug fix:
