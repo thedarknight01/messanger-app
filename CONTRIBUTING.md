@@ -8,7 +8,7 @@ Thank you for your interest in contributing to **Messenger App**! We welcome con
 
 2. **Clone Your Fork**:
    ```bash
-   git clone https://github.com/thedarknight01/messenger-app.git
+   git clone https://github.com/thedarknight01/messanger-app.git
    ```
    
 
@@ -71,7 +71,7 @@ If you are working on UI/UX, please include before/after screenshots of your cha
 
 ## ⚠️ Code of Conduct
 
-By participating in this project, you agree to abide by our [Code of Conduct](./CODE_OF_CONDUCT.md). Please report any unacceptable behavior to the maintainers.
+By participating in this project, you agree to abide by our [Code of Conduct](https://www.contributor-covenant.org). Please report any unacceptable behavior to the maintainers.
 
 ## 🙌 Thank You!
 
